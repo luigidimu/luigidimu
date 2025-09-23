@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Luigi
 
-<!--
-**luigidimu/luigidimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Finance & Insurance (Sapienza University of Rome)  
+📊 Interested in Quantitative Finance, Risk Management, and Data Science  
+💻 Skills: Python (scikit-learn, pandas, statsmodels), MATLAB, R, Excel/VBA, Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects Portfolio
+
+### 🔹 Quantitative Finance
+- **Value-at-Risk Models** – Parametric, Historical, and Monte Carlo simulation applied to a real portfolio.  
+- **Option Pricing** – Black-Scholes, Binomial Trees, Monte Carlo, and Greeks calculation.  
+
+### 🔹 Data Science & Credit Risk
+- **Credit Default Prediction** – Comparison between Logistic Regression and Random Forest on UCI credit dataset.  
+- **Time Series Forecasting** – ARIMA/GARCH vs LSTM on financial data.  
+
+### 🔹 Risk Reporting & Visualization
+- **Risk Dashboard** – Power BI dashboard with VaR, Duration, and Sharpe Ratio metrics.  
+- **Excel Monte Carlo Simulator** – Interactive tool for portfolio risk analysis.  
+
+---
+
+📫 Reach me at [LinkedIn](https://linkedin.com/in/luigidimuzio) or [email](mailto:tuo.email)

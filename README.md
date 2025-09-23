@@ -22,4 +22,4 @@
 
 ---
 
-📫 Reach me at [LinkedIn](https://linkedin.com/in/luigidimuzio) or [email](mailto:tuo.email)
+📫 Reach me at [LinkedIn](https://linkedin.com/in/luigidimuzio) or [email](luigi.dimu@gmail.com)

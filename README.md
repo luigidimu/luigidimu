@@ -13,7 +13,7 @@
 ### 🔹 Quantitative Finance
 - ✅ **Value-at-Risk Portfolio** — *Parametric, Historical, Monte Carlo* su portafoglio reale con input interattivo dei ticker.  
   Output: VaR di portafoglio a 95/99%, confronto tra metodi, grafici e report.  
-  Repo: [var-portfolio](https://github.com/tuonome/var-portfolio)
+  Repo: [var-portfolio](https://github.com/luigidimu/var-portfolio)
 
 - 🛠️ **Option Pricing** — Black-Scholes, Binomiale, Monte Carlo, Greeks, confronto modelli.  
   Repo: (coming soon)
